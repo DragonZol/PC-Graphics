@@ -1,0 +1,310 @@
+# depslib dependency file v1.0
+1681113695 source:c:\users\zooml\documents\openjl\3 laba(v2)\main.c
+	<windows.h>
+	<gl/gl.h>
+	"C:\Users\zooml\Documents\OpenJL\3 Laba(v2)\stb_easy_font.h"
+	<string.h>
+	"C:\Users\zooml\Documents\OpenJL\3 Laba(v2)\stb_image.h"
+
+1674029753 c:\users\zooml\documents\openjl\3 laba(v2)\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029753 c:\users\zooml\documents\openjl\3 laba(v2)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1681183246 source:e:\Графика\3 Лаба\3 laba(v2)\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+
+1681183246 source:d:\Графика\3 Лаба\3 laba(v2)\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+
+1674029754 d:\Графика\3 Лаба\3 laba(v2)\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 d:\Графика\3 Лаба\3 laba(v2)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1674029754 e:\Графика\3 Лаба\3 laba(v2)\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 e:\Графика\3 Лаба\3 laba(v2)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1681985814 source:e:\Графика\3 laba(Попытки переделать в 4)\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+
+1674029754 e:\Графика\3 laba(Попытки переделать в 4)\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 e:\Графика\3 laba(Попытки переделать в 4)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1682328426 source:e:\Графика\3 laba Попытки переделать в 4(v2)\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+
+1674029754 e:\Графика\3 laba Попытки переделать в 4(v2)\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 e:\Графика\3 laba Попытки переделать в 4(v2)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1682328426 source:d:\Графика\3 laba Попытки переделать в 4(v2)\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+
+1674029754 d:\Графика\3 laba Попытки переделать в 4(v2)\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 d:\Графика\3 laba Попытки переделать в 4(v2)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1682392982 source:d:\Графика\4 Лаба\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+
+1674029754 d:\Графика\4 Лаба\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 d:\Графика\4 Лаба\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1682757654 source:e:\Графика\4 Лаба\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+
+1674029754 e:\Графика\4 Лаба\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 e:\Графика\4 Лаба\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1682770043 source:c:\users\zooml\desktop\4 Лаба\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+
+1674029754 c:\users\zooml\desktop\4 Лаба\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 c:\users\zooml\desktop\4 Лаба\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1682770664 source:e:\Графика\Новейшая 4\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+
+1674029754 e:\Графика\Новейшая 4\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 e:\Графика\Новейшая 4\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1683957904 source:e:\Графика 1\Доп вариант 4 Лабы(новейшая)\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+	<stdbool.h>
+
+1674029754 e:\Графика 1\Доп вариант 4 Лабы(новейшая)\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 e:\Графика 1\Доп вариант 4 Лабы(новейшая)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
