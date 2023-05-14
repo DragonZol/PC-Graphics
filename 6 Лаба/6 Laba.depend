@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684063343 source:c:\users\zooml\documents\openjl\6 laba\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
