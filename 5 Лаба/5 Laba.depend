@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1684060572 source:c:\users\zooml\documents\openjl\5 laba\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1684059928 c:\users\zooml\documents\openjl\5 laba\camera.h
+
+1684060676 source:c:\users\zooml\documents\openjl\5 laba\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
