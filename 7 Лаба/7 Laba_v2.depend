@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684588402 source:e:\Графика 1\Моя 7 Лаба\7 Лаба\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
